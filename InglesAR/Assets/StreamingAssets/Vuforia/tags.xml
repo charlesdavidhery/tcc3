@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Watermelon" size="200.000000 200.000000" />
+    <ImageTarget name="Avocado" size="200.000000 200.000000" />
+    <ImageTarget name="Strawberry" size="200.000000 200.000000" />
+    <ImageTarget name="Pedra" size="200.000000 200.000000" />
+    <ImageTarget name="Maca" size="200.000000 200.000000" />
+    <ImageTarget name="Fumaca" size="200.000000 200.000000" />
+    <ImageTarget name="Banana" size="200.000000 200.000000" />
+    <ImageTarget name="AMARELO" size="200.000000 200.000000" />
+    <ImageTarget name="Laranja" size="200.000000 200.000000" />
+    <ImageTarget name="VERDE" size="200.000000 200.000000" />
+    <ImageTarget name="Terra" size="200.000000 200.000000" />
+    <ImageTarget name="Vermelho" size="200.000000 200.000000" />
+    <ImageTarget name="Azul" size="200.000000 200.000000" />
+    <ImageTarget name="AGUA" size="200.000000 200.000000" />
+    <ImageTarget name="Fogo" size="200.000000 200.000000" />
+  </Tracking>
+</QCARConfig>
